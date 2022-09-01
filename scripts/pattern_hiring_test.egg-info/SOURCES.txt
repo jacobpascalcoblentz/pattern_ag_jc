@@ -1,0 +1,11 @@
+setup.py
+pattern_hiring_test.egg-info/PKG-INFO
+pattern_hiring_test.egg-info/SOURCES.txt
+pattern_hiring_test.egg-info/dependency_links.txt
+pattern_hiring_test.egg-info/requires.txt
+pattern_hiring_test.egg-info/top_level.txt
+pattern_steps/__init__.py
+pattern_steps/crops.py
+pattern_steps/soil.py
+pattern_steps/spectral.py
+pattern_steps/weather.py
